@@ -1,0 +1,13 @@
+C:\Users\Programming\source\repos\PIZZA Project\bin\Debug\PIZZA Project.exe.config
+C:\Users\Programming\source\repos\PIZZA Project\bin\Debug\PIZZA Project.exe
+C:\Users\Programming\source\repos\PIZZA Project\bin\Debug\PIZZA Project.pdb
+C:\Users\Programming\source\repos\PIZZA Project\obj\Debug\PIZZA Project.csproj.AssemblyReference.cache
+C:\Users\Programming\source\repos\PIZZA Project\obj\Debug\PIZZA Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Programming\source\repos\PIZZA Project\obj\Debug\PIZZA_Project.Form1.resources
+C:\Users\Programming\source\repos\PIZZA Project\obj\Debug\PIZZA_Project.Properties.Resources.resources
+C:\Users\Programming\source\repos\PIZZA Project\obj\Debug\PIZZA Project.csproj.GenerateResource.cache
+C:\Users\Programming\source\repos\PIZZA Project\obj\Debug\PIZZA Project.csproj.CoreCompileInputs.cache
+C:\Users\Programming\source\repos\PIZZA Project\obj\Debug\PIZZA Project.exe
+C:\Users\Programming\source\repos\PIZZA Project\obj\Debug\PIZZA Project.pdb
+C:\Users\Programming\source\repos\PIZZA Project\bin\Debug\Guna.UI2.dll
+C:\Users\Programming\source\repos\PIZZA Project\obj\Debug\PIZZA Project.csproj.CopyComplete

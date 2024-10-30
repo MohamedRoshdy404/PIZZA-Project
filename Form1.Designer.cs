@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.grpBox1 = new System.Windows.Forms.GroupBox();
             this.radbtn3 = new System.Windows.Forms.RadioButton();
@@ -59,6 +60,8 @@
             this.label3 = new System.Windows.Forms.Label();
             this.labPrice = new System.Windows.Forms.Label();
             this.labTotalPrice = new System.Windows.Forms.Label();
+            this.guna2AnimateWindow1 = new Guna.UI2.WinForms.Guna2AnimateWindow(this.components);
+            this.guna2BorderlessForm1 = new Guna.UI2.WinForms.Guna2BorderlessForm(this.components);
             this.grpBox1.SuspendLayout();
             this.grpBox2.SuspendLayout();
             this.grpBox3.SuspendLayout();
@@ -453,6 +456,13 @@
             this.labTotalPrice.TabIndex = 28;
             this.labTotalPrice.Text = "Total Price:";
             // 
+            // guna2BorderlessForm1
+            // 
+            this.guna2BorderlessForm1.AnimateWindow = true;
+            this.guna2BorderlessForm1.ContainerControl = this;
+            this.guna2BorderlessForm1.DockIndicatorTransparencyValue = 0.6D;
+            this.guna2BorderlessForm1.TransparentWhileDrag = true;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -471,6 +481,7 @@
             this.Controls.Add(this.grpBox1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.MaximizeBox = false;
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Pizza Order";
@@ -523,6 +534,8 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label labPrice;
         private System.Windows.Forms.Label labTotalPrice;
+        private Guna.UI2.WinForms.Guna2AnimateWindow guna2AnimateWindow1;
+        private Guna.UI2.WinForms.Guna2BorderlessForm guna2BorderlessForm1;
     }
 }
 
